@@ -7,13 +7,6 @@ Designed to let server-listing platforms and websites fetch real-time server dat
 ![FAQ Screenshot](https://i.imgur.com/rRI7jom.png)
 
 
-## 🖥 Demo
-
-Live query example:  
-https://yamiru.com/hytale
-
-PHP example (simple web query):  
-https://github.com/Yamiru/Hytale-Simple-query/blob/main/serverexample.php
 
 ## ✨ Features
 
